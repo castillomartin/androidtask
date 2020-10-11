@@ -1,0 +1,5 @@
+include ':jsoup-1'
+include ':jsoup'
+include ':jsoup-1.13.1'
+include ':app'
+rootProject.name = "tarea"

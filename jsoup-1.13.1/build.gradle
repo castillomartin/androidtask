@@ -1,0 +1,9 @@
+configurations.maybeCreate("default")
+
+dependencies {
+    //classpath 'com.android.tools.build:gradle:3.6.0'
+
+    //implementation files('jsoup-1.13.1.jar')
+    ///implementation files('jsoup-1.13.1.jar')
+}
+artifacts.add("default", file('jsoup-1.13.1.jar'))
