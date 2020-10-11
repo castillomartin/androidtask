@@ -2,6 +2,6 @@
  Web Scraping
  
  
-Files result* frontend
+Folders result* frontend
 
-Files Site and Tree Backend
+Folders Site and Tree Backend
